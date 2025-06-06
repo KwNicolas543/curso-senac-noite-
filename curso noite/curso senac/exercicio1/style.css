@@ -1,0 +1,53 @@
+body{
+    background-color: #000;
+}
+
+h1{
+    color: white;
+    text-align: center;
+    font-size: 50px;
+}
+
+p{
+
+color: whitesmoke;
+font-size: xx-large;
+
+}
+
+h2{
+    color: white;
+    font-size: 50px;
+    
+}
+
+img{
+
+    width: 1000px;
+    padding-left: 500px;
+}
+
+li{
+    color: whitesmoke ;
+    font-size: xx-large;}
+
+th{
+
+    color: antiquewhite;
+    border: 1px solid white;
+
+    
+}
+    
+table{
+     border: 1px solid white;
+    width: 900px;
+    text-align: center;
+}
+
+td{
+
+color: antiquewhite;
+    border: 1px solid white;
+    
+}
